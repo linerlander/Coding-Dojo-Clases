@@ -1,4 +1,4 @@
-# <p style="background-color:#2E1B39;font-family:Creepster,cursive;color:#ffffff;font-size:150%;text-align:center;border-radius:10px 10px;">🏚️ Predicción el Precio de una Casa 💵</p>
+# <p style="background-color:#2E1B39;font-family:Creepster,cursive;color:#ffffff;font-size:150%;text-align:center;border-radius:10px 10px;">❤️ Clasificación de Problemas Cardíacos  ❤️</p>
 ---
 
 [![Clasificaci-n-Problema-Cardiaco.png](https://i.postimg.cc/pyb7MQp1/Clasificaci-n-Problema-Cardiaco.png)](https://postimg.cc/YLR81WN1)
@@ -19,8 +19,8 @@
 <a id='sec_1'></a>
 ## `1. Introducción`
 
-`❤️ Explorando el Corazón Humano: Predicción de Problemas Cardíacos ❤️`
+`❤️ Explorando el Corazón Humano: Clasificación de Problemas Cardíacos ❤️`
 
 En el intrigante ámbito de la salud, cada individuo cuenta con un conjunto único de características que pueden reflejar el estado de su corazón. 💓 Nuestro proyecto se centra en un conjunto de datos de más de 43,000 registros, analizando factores críticos como edad 👶👴, género 🚹🚺, presión arterial 🩺, índice de masa corporal (IMC) 📏, y niveles de glucosa en sangre 🍬. Además, exploramos hábitos como el consumo de alcohol 🍷, actividad física 🏃‍♂️, horas de sueño 😴 y más, junto con características de su entorno, como la calidad del aire 🌬️ y el acceso a cuidados médicos 🏥.
 
-Con este análisis detallado, buscamos desarrollar un modelo que pueda predecir con precisión la presencia de problemas cardíacos, proporcionando una herramienta poderosa para la prevención, detección temprana, y toma de decisiones en el ámbito médico. 🩺✨
+Con este análisis detallado, buscamos desarrollar un modelo que pueda clasificar c
